@@ -1,0 +1,23 @@
+{
+  "name": "bokkypoobahsdatetimelibrary",
+  "version": "1.0.0",
+  "description": "<kbd><img src=\"images/clocks.png\" /></kbd>",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warbler-labs/BokkyPooBahsDateTimeLibrary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warbler-labs/BokkyPooBahsDateTimeLibrary/issues"
+  },
+  "homepage": "https://github.com/warbler-labs/BokkyPooBahsDateTimeLibrary#readme"
+}
